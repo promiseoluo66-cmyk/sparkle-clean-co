@@ -4,6 +4,48 @@ A concept website for a **fictional** cleaning company, built by RapidPixel as a
 
 The goal of the page is to get visitors to fill in the quote form.
 
+## Portfolio project summary
+
+| | |
+|---|---|
+| **Project** | Sparkle Clean Co. - Cleaning Business Landing Page Demo |
+| **Type** | Self-initiated concept project (not paid client work) |
+| **Built by** | RapidPixel |
+| **Live demo** | https://promiseoluo66-cmyk.github.io/sparkle-clean-co/ |
+| **Repository** | https://github.com/promiseoluo66-cmyk/sparkle-clean-co |
+| **Cost** | Free to build and host. No paid tools or services. |
+
+### Technologies used
+
+- HTML
+- CSS
+- JavaScript (plain, no libraries)
+- GitHub Pages (free hosting)
+
+### Features implemented
+
+- Responsive, mobile-first landing page
+- Mobile navigation menu that opens and closes
+- Service sections (four cleaning services) and a "why choose us" section
+- Three-step process section
+- Quote-request form
+- Client-side form validation with clear error messages
+- Honest demo-mode submission message
+
+### Important: the form does not send real enquiries yet
+
+The quote form only checks the answers in the browser. **No enquiry is sent, stored or emailed.** After a valid submission it says so on screen. Real delivery needs a form service connected later (see "Connect real enquiries later" below).
+
+### Portfolio entry (copy and paste)
+
+**Sparkle Clean Co. - Cleaning Business Landing Page Demo**
+
+A concept landing page for a fictional cleaning company, built to show a clean, mobile-friendly layout with a quote-request form. It includes service sections, a simple process section, and client-side form validation. This is a self-initiated demo, not client work. The form currently runs in demo mode and does not send real enquiries; it is built so a free form service can be connected later.
+
+Built with HTML, CSS and JavaScript, hosted free on GitHub Pages.
+
+Live demo: https://promiseoluo66-cmyk.github.io/sparkle-clean-co/
+
 ## Files
 
 | File | What it does |
