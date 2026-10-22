@@ -36,6 +36,11 @@ The goal of the page is to get visitors to fill in the quote form.
 
 The quote form only checks the answers in the browser. **No enquiry is sent, stored or emailed.** After a valid submission it says so on screen. Real delivery needs a form service connected later (see "Connect real enquiries later" below).
 
+### Status
+
+- **Checked (22 Oct 2026):** the live demo URL loads and serves the full page content (header, hero, services, process, quote form, footer).
+- **Still to test by hand:** phone and desktop layout, the mobile menu, every link and button, and the form (empty submit, invalid email, valid demo submit).
+
 ### Portfolio entry (copy and paste)
 
 **Sparkle Clean Co. - Cleaning Business Landing Page Demo**
@@ -98,5 +103,5 @@ Do not publish secret keys. A form URL is meant to be public, but never paste pa
 
 - The hero uses a drawn illustration, not a photo, so there are no image links that can break.
 - Fonts are system fonts, so the look varies slightly between devices.
-- I could not run a browser here. Please check the page yourself at about 320-390px wide and on desktop, open and close the mobile menu, test every link and button, and look at the browser console for errors.
+- A browser could not be run during the build. Check the page yourself at about 320-390px wide and on desktop, open and close the mobile menu, test every link and button, and look at the browser console for errors.
 - No real enquiry delivery exists until a form endpoint is connected and tested.
